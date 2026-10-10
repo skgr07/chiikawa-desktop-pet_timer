@@ -11,7 +11,7 @@
 ![Python](https://img.shields.io/badge/Python-PySide6-9DBCAA?style=flat-square)
 ![Characters](https://img.shields.io/badge/캐릭터-3종-F1C875?style=flat-square)
 
-**[📦 배포 파일 다운로드]([chiikawa_timer_python_소스배포용.zip?raw=true](https://raw.githubusercontent.com/skgr07/chiikawa-desktop-pet_timer/master/chiikawa_timer_python_%EC%86%8C%EC%8A%A4%EB%B0%B0%ED%8F%AC%EC%9A%A9.zip))**
+**[📦 배포 파일 다운로드](https://raw.githubusercontent.com/skgr07/chiikawa-desktop-pet_timer/master/chiikawa_timer_python_%EC%86%8C%EC%8A%A4%EB%B0%B0%ED%8F%AC%EC%9A%A9.zip)**
 
 </div>
 
@@ -87,7 +87,8 @@
 
 ## 📦 다운로드 & 사용법
 
-1. [배포 ZIP]([chiikawa_timer_python_소스배포용.zip?raw=true](https://raw.githubusercontent.com/skgr07/chiikawa-desktop-pet_timer/master/chiikawa_timer_python_%EC%86%8C%EC%8A%A4%EB%B0%B0%ED%8F%AC%EC%9A%A9.zip))에서 `chiikawa_timer_python_소스배포용.zip`을 다운로드하세요.
+
+1. [배포 ZIP 다운로드](https://raw.githubusercontent.com/skgr07/chiikawa-desktop-pet_timer/master/chiikawa_timer_python_%EC%86%8C%EC%8A%A4%EB%B0%B0%ED%8F%AC%EC%9A%A9.zip)를 눌러 파일을 받으세요.
 2. ZIP **전체를 압축 해제**하세요.
 3. Python 3.10 이상을 설치하고, 프로그램 폴더에서 `py -m pip install -r requirements.txt`를 한 번 실행하세요.
 4. 폴더 안의 **`실행.bat`**을 실행하세요. 검은 창은 닫히고 타이머만 계속 실행됩니다.
