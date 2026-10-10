@@ -87,7 +87,7 @@
 
 ## 📦 다운로드 & 사용법
 
-1. **[배포 ZIP](chiikawa_timer_python_소스배포용.zip?raw=true)**에서 `chiikawa_timer_python_소스배포용.zip`을 다운로드하세요.
+1. [배포 ZIP](chiikawa_timer_python_소스배포용.zip?raw=true)에서 `chiikawa_timer_python_소스배포용.zip`을 다운로드하세요.
 2. ZIP **전체를 압축 해제**하세요.
 3. Python 3.10 이상을 설치하고, 프로그램 폴더에서 `py -m pip install -r requirements.txt`를 한 번 실행하세요.
 4. 폴더 안의 **`실행.bat`**을 실행하세요. 검은 창은 닫히고 타이머만 계속 실행됩니다.
